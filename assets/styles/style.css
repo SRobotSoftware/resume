@@ -1,0 +1,14 @@
+body {
+    background-color: #333;
+    color: #99ff99;
+}
+
+.profile-picture {
+    border-radius: 25%;
+    border: 2px solid;
+    height: 100px;
+}
+
+.about {
+    background: #222;
+}
