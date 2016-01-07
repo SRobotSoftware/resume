@@ -1,14 +1,21 @@
-body {
-    background-color: #333;
-    color: #99ff99;
-}
-
-.profile-picture {
-    border-radius: 25%;
-    border: 2px solid;
+.my-img {
+    border-radius: 3%;
     height: 100px;
+    /*width: 100px;*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
 }
-
-.about {
-    background: #222;
+.my-about {
+    min-height: 300px;
+    max-height: 300px;
+}
+.my-experience {
+    min-height: 300px;
+    max-height: 300px;
+}
+.my-skills {
+    min-height: 621.5px;
+    max-height: 621.5px;
 }
