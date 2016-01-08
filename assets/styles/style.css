@@ -19,3 +19,6 @@
     min-height: 621.5px;
     max-height: 621.5px;
 }
+.my-list-item {
+    font-weight: bold;
+}
