@@ -9,14 +9,17 @@
 .my-about {
     min-height: 300px;
     max-height: 300px;
+    padding-top: 0px;
 }
 .my-experience {
     min-height: 300px;
     max-height: 300px;
+    padding-top: 0px;
 }
 .my-skills {
     min-height: 621.5px;
     max-height: 621.5px;
+    padding-top: 0px;
 }
 .my-list-item {
     font-weight: bold;
