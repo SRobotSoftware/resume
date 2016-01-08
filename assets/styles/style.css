@@ -1,7 +1,6 @@
 .my-img {
     border-radius: 3%;
     height: 100px;
-    /*width: 100px;*/
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -10,12 +9,27 @@
 .my-about {
     min-height: 300px;
     max-height: 300px;
+    padding-top: 0px;
 }
 .my-experience {
     min-height: 300px;
     max-height: 300px;
+    padding-top: 0px;
 }
 .my-skills {
     min-height: 621.5px;
     max-height: 621.5px;
+    padding-top: 0px;
+}
+.my-list-item {
+    font-weight: bold;
+}
+.my-work {
+    margin-top: 40px;
+}
+.my-work2 {
+    margin-top: 20px;
+}
+.my-p {
+    margin-bottom: 0px !important;
 }
